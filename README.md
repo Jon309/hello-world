@@ -1,2 +1,2 @@
 # hello-world
-First GitHub repository
+My name is Jon and I am a computer science major at Towson
